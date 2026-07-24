@@ -1,0 +1,45 @@
+{
+  "name": "Sumit Maurya",
+  "experience": "3.5",
+  "playwright": "3.5",
+  "javascript": "3.5",
+  "typescript": "3.5",
+  "manual_testing": "3.5",
+  "automation_testing": "3.5",
+  "api_testing": "3.5",
+  "postman": "3.5",
+  "aws": "3.5",
+  "kafka": "3.5",
+  "python": "Basic working knowledge",
+  "core_banking": "0",
+  "insurance": "0",
+  "retail": "3.5",
+  "ecommerce": "3.5",
+  "notice_period": "Immediate",
+  "current_ctc": "11 LPA",
+  "expected_ctc": "16 LPA",
+  "current_location": "Bangalore",
+  "shift": "Yes",
+  "passport": "Yes",
+  "travelOnsite": "Yes",
+  "relocate": "Yes",
+
+  "totalExperience": 3.5,
+
+  "playwrightExperience": 3.5,
+  "javascriptExperience": 3.5,
+  "typescriptExperience": 3.5,
+  "pythonExperience": "Basic working knowledge",
+
+  "apiExperience": 3.5,
+  "awsExperience": 3.5,
+  "kafkaExperience": 3.5,
+
+  "noticePeriod": "Immediate",
+
+  "currentCTC": "11 LPA",
+  "expectedCTC": "16 LPA",
+
+  "location": "Bengaluru"
+
+}

@@ -1,0 +1,16 @@
+node_modules/
+.env
+.DS_Store
+
+# Generated files
+data/jobs.json
+screenshots/
+screenshot/
+
+# Playwright reports
+playwright-report/
+test-results/
+
+# Auth files (if you have them)
+auth.json
+storageState.json
