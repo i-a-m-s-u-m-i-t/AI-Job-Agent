@@ -40,6 +40,26 @@
   "currentCTC": "11 LPA",
   "expectedCTC": "16 LPA",
 
-  "location": "Bengaluru"
+  "location": "Bengaluru",
+  
+  
+  "manualTestingExperience": 3.5,
 
+  "domain": [
+    "Retail",
+    "E-commerce"
+  ],
+  "skills": [
+    "Playwright",
+    "JavaScript",
+    "TypeScript",
+    "API Testing",
+    "Postman",
+    "AWS",
+    "Kafka",
+    "Git",
+    "GitHub Actions",
+    "Jira"
+  ]
 }
+
