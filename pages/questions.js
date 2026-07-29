@@ -49,7 +49,9 @@ async function answerScreeningQuestion(page) {
             console.log("Question:");
             console.log(previousQuestion);
 
-            const answer = getAnswer(previousQuestion);
+            const { getAIAnswer } = require("../ai/aiAnswer");
+
+            const answer = await getAIAnswer(question);
 
             console.log("Answer:", answer);
 

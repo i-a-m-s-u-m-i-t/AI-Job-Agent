@@ -13,7 +13,7 @@ async function enrichJobs(context) {
     console.log(`Processing ${jobs.length} jobs...\n`);
 
     // Process only first 3 jobs while testing
-    const limit = 1;
+    const limit = 15;
 
     for (let i = 0; i < limit; i++) {
 
